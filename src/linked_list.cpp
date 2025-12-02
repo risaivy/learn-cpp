@@ -4,7 +4,7 @@ using namespace std;
 class LinkedList{
     int val;
     LinkedList* next;
-
+public:
     LinkedList(){
         cout<<"Hello, World!";
     }

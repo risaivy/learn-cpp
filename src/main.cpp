@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     LinkedList node = LinkedList();
-    return;
+    return 0;
 }
